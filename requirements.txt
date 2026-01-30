@@ -1,0 +1,8 @@
+langchain
+openai
+huggingface_hub
+python-dotenv
+streamlit
+TO RUN app.py: 
+
+python -m streamlit run "E:\Complete-Langchain-Tutorials-main\Conversational Q&A Chatbot\app.py"
